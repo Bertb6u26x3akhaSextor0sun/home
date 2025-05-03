@@ -3,3 +3,4 @@ Documentation update
 Feature note logged
 Bugfix record
 Progress report added
+Test case summary
