@@ -5,3 +5,4 @@ Bugfix record
 Progress report added
 Test case summary
 Changelog entry
+Configuration note
