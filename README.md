@@ -6,3 +6,4 @@ Progress report added
 Test case summary
 Changelog entry
 Configuration note
+Release version info
