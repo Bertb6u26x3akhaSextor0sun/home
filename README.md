@@ -7,3 +7,4 @@ Test case summary
 Changelog entry
 Configuration note
 Release version info
+Team meeting notes
